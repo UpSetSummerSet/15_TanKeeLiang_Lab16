@@ -19,7 +19,7 @@ GameObject:
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1537453142003716939
 Transform:
@@ -123,4 +123,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36b055bf1033ff942a9e5ef60da385a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  score: {fileID: 8154178790393682095, guid: 3c4292bf5db05d04bb35f622cb7ad647, type: 3}
+  scoretracker: {fileID: 6511703354149392353, guid: 0d9ae4e640ae484478be81210c6d800a,
+    type: 3}

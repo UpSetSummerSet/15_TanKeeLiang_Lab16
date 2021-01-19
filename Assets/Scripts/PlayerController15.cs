@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerController15 : MonoBehaviour
 {
-    float speed = 5.0f;
-    float rotateSpeed = 75.0f;
+    float speed = 10.0f;
+    float rotateSpeed = 100.0f;
 
     public GameObject bulletPrefabs;
     public GameObject bulletSpawn;

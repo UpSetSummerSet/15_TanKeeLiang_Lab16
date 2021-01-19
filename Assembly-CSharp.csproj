@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\EnemySpawnScript.cs" />
      <Compile Include="Assets\Scripts\PlayerController15.cs" />
+     <Compile Include="Assets\Scripts\ScoreTracker.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Games/Unity/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
